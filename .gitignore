@@ -1,0 +1,5 @@
+#Git Ignroe
+
+#Ignore All .DS_Store
+*.DS_Store
+**/*.DS_Store
