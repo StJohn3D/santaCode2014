@@ -4,7 +4,7 @@ santaCode2014
 Experimenting with scripting AI to export sprite sheets to Flash
 
 
-run $open buildAI.sjx from the terminal
+run $open buildAI.jsx from the terminal
 
 Goals:
  Will Launch AI
